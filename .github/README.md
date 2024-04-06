@@ -1,7 +1,7 @@
 ## Getting started with Next.js and Replicate
 
 This is a [Next.js](https://nextjs.org/) template project that's preconfigured to work with Replicate's API.
-
+Adrian George 
 ## Noteworthy files
 
 - [pages/index.js](pages/index.js) - The React frontend that renders the home page in the browser
